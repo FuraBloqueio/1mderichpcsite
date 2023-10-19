@@ -1,3 +1,3 @@
 # 1mderichpcsite
-##ErichLuizVieraLeite
-###ProfessoNewtonGuimarães
+##erich
+###newton
